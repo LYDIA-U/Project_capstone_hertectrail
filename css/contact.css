@@ -1,0 +1,27 @@
+nav {
+    background-color: green;
+}
+
+
+h1{
+    margin: 6rem;
+    padding: 3rem;
+    justify-content: center;
+    color:green;
+}
+
+form {
+    padding: 2em;
+    border-radius: 3em;
+    border: green solid ;
+    
+
+}
+.col-lg-9 {
+    height: 50em;
+}
+
+footer {
+    margin-top: 1em;
+    padding: 1em;
+}
